@@ -1,4 +1,4 @@
 .dk-einkaufsliste
 =================
 
-.dk Einkaufsliste
+Einkaufsliste für die jährliche .dk Tour
