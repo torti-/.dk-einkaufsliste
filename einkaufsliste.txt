@@ -55,7 +55,7 @@ Chips/Munchies (Menge egal)
 10 10er Packs Balisto (gemischt, viel orange)
 1 Tüte Marshmallows
 
-FLEISCH:
+FLEISCH & NonFLEISCH:
 --------
 2 Packungen Grillwürstchen
 12-16 TK-Hamburger billig
@@ -66,6 +66,7 @@ FLEISCH:
 10 Packungen Bacon (125g)
 1 Grosspackung Bacon (1400g)
 TK-Scampis
+8 Grillkäse (Menge kann variieren je nach Veg.Anteil)
 
 HEALTH&BEAUTY:
 --------------
