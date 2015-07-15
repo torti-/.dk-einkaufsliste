@@ -31,6 +31,7 @@ FOOD:
 1-2 Baguettes
 12-18 Hamburger-Brötchen, klein
 12 Burger-Brötchen, groß
+1 Packung HotDog-Brötchen
 50 Schabletten (MK)
 3 Gläser Gurken (MK)
 500g Krautsalat
@@ -61,10 +62,11 @@ Chips/Munchies (Menge egal)
 1 Tüte Marshmallows
 
 FLEISCH & NonFLEISCH:
---------
+---------------------
 2 Packungen Grillwürstchen
-12-16 TK-Hamburger billig
-12 Nobelburger
+8-12 TK-Hamburger, billig
+16 Nobelburger
+1 Packung Rød pølse (rote Würstchen für HotDogs)
 3 Packungen Cevapcicis (MK)
 4 Steaks
 1-2 Pkg Schaschliks
@@ -73,8 +75,8 @@ FLEISCH & NonFLEISCH:
 TK-Scampis
 10 Packungen Grillkäse
 
-HEALTH&BEAUTY:
---------------
+HEALTH & BEAUTY:
+----------------
 Sonnencreme (extra-stark für weinerliche Hachmänner)
 Sodbrennkack
 Aspirin
