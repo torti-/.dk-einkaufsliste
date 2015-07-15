@@ -29,8 +29,8 @@ FOOD:
 -----
 2 Pakete Toastbrot
 1-2 Baguettes
-12-18 Hamburger-Brötchen, klein
-12 Burger-Brötchen, groß
+0-4 Hamburger-Brötchen, klein
+24 Burger-Brötchen, groß
 1 Packung HotDog-Brötchen
 50 Schabletten (MK)
 3 Gläser Gurken (MK)
@@ -64,7 +64,7 @@ Chips/Munchies (Menge egal)
 FLEISCH & NonFLEISCH:
 ---------------------
 2 Packungen Grillwürstchen
-8-12 TK-Hamburger, billig
+0-4 TK-Hamburger, billig
 24 Nobelburger
 1 Packung Rød pølse (rote Würstchen für HotDogs)
 3 Packungen Cevapcicis (MK)
